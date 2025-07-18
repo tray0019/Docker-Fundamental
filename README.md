@@ -1,13 +1,13 @@
-#Docker Fundamental
+# Docker Fundamental
 
-#Step Took
+# Step Took
 1. Created Java Project
 2. Added Dockerfile
 3. Build Docker images
 4. Use the terminal to build the images - [docker build -t main:1.0]
 5. Run in a docker container [docker run Main:1.0]
 
-#Learn
+# Learned
 Difference between COPY and RUN
 - RUN only applies to images
 - COPY the first argument applies to the 
